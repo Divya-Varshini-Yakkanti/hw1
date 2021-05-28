@@ -3,6 +3,7 @@ A list of participants in CSC 195
 
 *Please keep this list in alphabetical order by last name.*
 
+
 * Toby E. Baratta
 * Larry Boateng Asante
 * Ezra "Slow Rider" Edgerton
@@ -22,3 +23,4 @@ A list of participants in CSC 195
 * Noah D. Schlager
 * Elias Mulhall
 * Yazan A. Kittaneh
+* Divya Varshini
